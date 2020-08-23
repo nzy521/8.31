@@ -5,6 +5,8 @@ if (!defined("MVC")) {
 
 use \libs\smarty;
 use \libs\db;
+use \libs\code;
+//use \libs\cookie;
 class index
 {
     function int()
@@ -18,10 +20,16 @@ class index
     {
         $uname = addslashes($_POST["uname"]);//对SQL语句进行转义
         $pass = md5(md5($_POST["pass"]));
+//        if(!(isset($_COOKIE["code"])&&$_COOKIE["code"]==$_POST["code"])){
+        if($_POST["code"]!==$_SESSION["code"]){
+            echo "验证码有误";
+            return;
+        }
         if (strlen($uname) < 5 || empty($pass)) {
             echo "用户名和密码不符合规范!";
             return;
         }
+
 //        $db = new mysqli("localhost", "root", '12345', 'wui2006', '3308');
 //        if (mysqli_connect_error()) {
 //            die("数据库连接错误");
@@ -34,13 +42,36 @@ class index
         if ($result->num_rows < 1) {
             echo "没有相应的数据,请重新登录";
         } else {
-            header(APP_ADD . "/admin/index/first");
+            $_SESSION["login"]="yes";
+            $_SESSION["uname"]=$uname;
+//            $cookie=new cookie();
+//            $cookie->setCookie('login','yes');
+            header(  "localhost:/mvc/index.php/admin/index/first");
+        }
+        $db->close();
+    }
+
+    function logout(){
+        session_destroy();
+        header("location:/mvc/index.php/admin");
+    }
+    function first()
+    {
+//        $cookie=new cookie();
+//        if($cookie->isCookie('login')&&$cookie->getCookie('login')=='yes'){
+        if(isset($_SESSION["login"])&&$_SESSION["login"]=="yes"){
+            $smarty=new smarty();
+            $smarty->assign("uname",$_SESSION["uname"]);
+            $smarty->display("admin/index.html");
+        }else{
+            header(  "location:/mvc/index.php/admin");
         }
     }
 
-    function first()
-    {
-        echo "后台首页";
-    }
+function mycode(){
+$code=new code();
+//    setcookie("code",$code->getStr(),0,"/");
+$code->out();
 
+}
 }
