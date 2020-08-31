@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body style="background: #efefef">
+{include file=$header}
+<style>
+    .news-box{
+        width: 1000px;
+        margin: 10px auto;
+        background: #fff;
+    }
+    .news-box h3{
+        text-align: center;
+    }
+    .news-box info{
+        text-align: center;
+    }
+    .list-box{
+     width: 800px;
+        margin: auto;
+
+
+    }
+    .list{
+        width: 50%;
+        height: 200px;
+        float: left;
+        padding: 20px;
+        box-sizing: border-box;
+    }
+    .list img{
+        width: 100%;
+    }
+    h4{
+        text-align: center;
+        padding-top: 0;
+        margin: 0;
+    }
+    .news-info{
+
+    }
+</style>
+
+<div class="news-box">
+    <h3>新闻中心</h3>
+    <div class="info">{$currentInfo["info"]}</div>
+    <h3>
+        {foreach $sonInfo as $v}
+        <a href="/index.php/index/lists?cid{$v['cid']}">{$v["cname"]}</a>
+
+        {/foreach}
+    </h3>
+    <div class="list-box">
+        {foreach $confin[0] as $v}
+        <a href="/index.php/index/show?conid={$v['conid']}" class="list">
+            <img src="{v['imgurl']}" alt="" height="100">
+            <h4>$v["ctitle"]</h4>
+            <div class="news-info">
+                {$v["info"]}
+            </div>
+        </a>
+
+        <div style="clear: both"></div>
+    </div>
+</div>
+{include file=$footer}
+</body>
+</html>

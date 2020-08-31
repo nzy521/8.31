@@ -14,7 +14,7 @@ class main{
 
         $host=isset($config["database"]["host"])?$config["database"]["host"]:"localhost";
         $username=isset($config["database"]["username"])?$config["database"]["username"]:"root";
-        $password=isset($config["database"]["password"])?$config["database"]["password"]:"12345";
+        $password=isset($config["database"]["password"])?$config["database"]["password"]:"";
         $dbname=isset($config["database"]["dbname"])?$config["database"]["dbname"]:"";
         $port=isset($config["database"]["port"])?$config["database"]["port"]:3308;
 

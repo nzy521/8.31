@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0a83d932-a601-437f-bf16-7da2d5122bde" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/application/admin/category.class.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/admin/content.class.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/compile/281d4d3ac7d7a0f42fbd6c38271c2dc02175799d_0.file.2.html.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/compile/3a2188d9a4b31b257a425a12a577cf3904dedc54_0.file.editcon.html.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/compile/450e752f749404a1cde0440aa6f3d9348c73d5ad_0.file.addcon.html.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/compile/6d2f93a5bf15bfa36ef6256edc3e78484c3f2fbf_0.file.addpage.html.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/compile/9e1d5a91b352b3f9fd4f7cebd6f8524c1abc537d_0.file.category.html.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/compile/a285445e4ff850fa4937aa6cc4ef466624b65cf1_0.file.test.html.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/compile/ad2d9a6b3b64ab54a977e41336b700c4a9bdefc1_0.file.showList.html.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/compile/b28c5f29bfd4a7e5c968f2a148b12e2a6629cd50_0.file.header.html.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/compile/c2058a3d4943e400db24b11da2c6332a4c1827f0_0.file.show.html.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/compile/c5fca734ea37fbb6370a378c81c17657551a1977_0.file.upload.html.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/compile/c63ace3d295cc9aebcf9335dedd57686fac416ef_0.file.footer.html.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/compile/ccf394d5637451154cc2c75c42933368c880c3b3_0.file.index.html.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/compile/ec4181a8d50fe3ae0d7df8243dc0e21192dc3740_0.file.lists.html.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/compile/fe165969fb2808045e5890fb1c1a87f377862665_0.file.server.html.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/index/category.class.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/index/lists.class.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/index/show.class.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/css/admin/addcon.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/css/index/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/addcon.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/category.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/icons/default/icons.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/icons/default/icons.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/jquery.tinymce.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/langs/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/license.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/plugins/advlist/plugin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/plugins/advlist/plugin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/plugins/anchor/plugin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/plugins/anchor/plugin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/plugins/autolink/plugin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/plugins/autolink/plugin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/plugins/autoresize/plugin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/plugins/autoresize/plugin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/plugins/autosave/plugin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/plugins/autosave/plugin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/plugins/bbcode/plugin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/plugins/bbcode/plugin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/plugins/charmap/plugin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/plugins/charmap/plugin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/plugins/code/plugin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/plugins/code/plugin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/plugins/codesample/plugin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/plugins/codesample/plugin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/plugins/colorpicker/plugin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/plugins/colorpicker/plugin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/plugins/contextmenu/plugin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/plugins/contextmenu/plugin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/plugins/directionality/plugin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/plugins/directionality/plugin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/plugins/emoticons/js/emojis.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/plugins/emoticons/js/emojis.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/plugins/emoticons/plugin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/plugins/emoticons/plugin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/plugins/fullpage/plugin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/plugins/fullpage/plugin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/plugins/fullscreen/plugin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/plugins/fullscreen/plugin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/plugins/help/plugin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/plugins/help/plugin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/plugins/hr/plugin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/plugins/hr/plugin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/plugins/image/plugin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/plugins/image/plugin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/plugins/imagetools/plugin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/plugins/imagetools/plugin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/plugins/importcss/plugin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/plugins/importcss/plugin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/plugins/insertdatetime/plugin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/plugins/insertdatetime/plugin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/plugins/legacyoutput/plugin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/plugins/legacyoutput/plugin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/plugins/link/plugin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/plugins/link/plugin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/plugins/lists/plugin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/plugins/lists/plugin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/plugins/media/plugin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/plugins/media/plugin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/plugins/nonbreaking/plugin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/plugins/nonbreaking/plugin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/plugins/noneditable/plugin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/plugins/noneditable/plugin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/plugins/pagebreak/plugin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/plugins/pagebreak/plugin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/plugins/paste/plugin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/plugins/paste/plugin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/plugins/preview/plugin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/plugins/preview/plugin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/plugins/print/plugin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/plugins/print/plugin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/plugins/quickbars/plugin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/plugins/quickbars/plugin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/plugins/save/plugin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/plugins/save/plugin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/plugins/searchreplace/plugin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/plugins/searchreplace/plugin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/plugins/spellchecker/plugin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/plugins/spellchecker/plugin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/plugins/tabfocus/plugin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/plugins/tabfocus/plugin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/plugins/table/plugin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/plugins/table/plugin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/plugins/template/plugin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/plugins/template/plugin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/plugins/textcolor/plugin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/plugins/textcolor/plugin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/plugins/textpattern/plugin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/plugins/textpattern/plugin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/plugins/toc/plugin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/plugins/toc/plugin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/plugins/visualblocks/plugin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/plugins/visualblocks/plugin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/plugins/visualchars/plugin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/plugins/visualchars/plugin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/plugins/wordcount/plugin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/plugins/wordcount/plugin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/skins/content/dark/content.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/skins/content/dark/content.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/skins/content/dark/content.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/skins/content/default/content.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/skins/content/default/content.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/skins/content/default/content.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/skins/content/document/content.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/skins/content/document/content.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/skins/content/document/content.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/skins/content/writer/content.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/skins/content/writer/content.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/skins/content/writer/content.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/skins/ui/oxide-dark/content.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/skins/ui/oxide-dark/content.inline.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/skins/ui/oxide-dark/content.inline.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/skins/ui/oxide-dark/content.inline.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/skins/ui/oxide-dark/content.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/skins/ui/oxide-dark/content.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/skins/ui/oxide-dark/content.mobile.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/skins/ui/oxide-dark/content.mobile.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/skins/ui/oxide-dark/content.mobile.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/skins/ui/oxide-dark/fonts/tinymce-mobile.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/skins/ui/oxide-dark/skin.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/skins/ui/oxide-dark/skin.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/skins/ui/oxide-dark/skin.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/skins/ui/oxide-dark/skin.mobile.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/skins/ui/oxide-dark/skin.mobile.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/skins/ui/oxide-dark/skin.mobile.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/skins/ui/oxide/content.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/skins/ui/oxide/content.inline.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/skins/ui/oxide/content.inline.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/skins/ui/oxide/content.inline.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/skins/ui/oxide/content.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/skins/ui/oxide/content.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/skins/ui/oxide/content.mobile.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/skins/ui/oxide/content.mobile.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/skins/ui/oxide/content.mobile.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/skins/ui/oxide/fonts/tinymce-mobile.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/skins/ui/oxide/skin.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/skins/ui/oxide/skin.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/skins/ui/oxide/skin.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/skins/ui/oxide/skin.mobile.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/skins/ui/oxide/skin.mobile.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/skins/ui/oxide/skin.mobile.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/themes/mobile/theme.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/themes/mobile/theme.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/themes/silver/theme.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/themes/silver/theme.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/tinymce.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/js/tinymce/tinymce.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/js/upload.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/template/admin/addcon.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/template/admin/addpage.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/template/admin/category.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/template/admin/editcon.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/template/admin/show.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/template/admin/showList.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/template/admin/upload.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/template/index/2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/template/index/category.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/template/index/footer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/template/index/header.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/template/index/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/template/index/lists.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/template/index/server.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/template/index/show.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/template/index/test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/getheader.class.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/upload.class.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upload/20-08-29/159870963817256微信图片_20200421180003.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upload/20-08-29/15987102057652微信图片_20200421180003.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upload/20-08-29/15987103188786微信图片_20200421180003.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/admin/index.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/admin/index.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/admin/reg.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/admin/reg.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/compile/3f3b4c70c77cf9a3d962abcf3490b636da31ffd1_0.file.login.html.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/compile/3f3b4c70c77cf9a3d962abcf3490b636da31ffd1_0.file.login.html.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/compile/812f3ec3b16564b5ab28279a4a04ba0d40696859_0.file.index.html.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/compile/812f3ec3b16564b5ab28279a4a04ba0d40696859_0.file.index.html.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/config.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/config.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/index/index.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/index/index.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/static/font/demo.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/static/font/impact.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/static/font/msyhl.ttc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/static/js/aimin.js" beforeDir="false" afterPath="$PROJECT_DIR$/application/static/js/admin.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/template/admin/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/application/template/admin/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/template/admin/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/application/template/admin/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/code.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/libs/code.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/db.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/libs/db.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/main.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/libs/main.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/start.php" beforeDir="false" afterPath="$PROJECT_DIR$/libs/start.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1gnRFwOksFMowqR192H4MeFey5I" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0a83d932-a601-437f-bf16-7da2d5122bde" name="Default Changelist" comment="" />
+      <created>1598748269551</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598748269551</updated>
+      <workItem from="1598748276472" duration="3177000" />
+      <workItem from="1598775005549" duration="21748000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="853" y="293" key="NewPhpFileDialog" timestamp="1598802092314">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="853" y="293" key="NewPhpFileDialog/0.0.1536.824@0.0.1536.824" timestamp="1598802092314" />
+    <state x="446" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1598780386824">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="446" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1598780386824" />
+  </component>
+</project>

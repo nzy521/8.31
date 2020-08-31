@@ -28,7 +28,7 @@ class reg
 //        $db->query("set names utf8");
         $database=new db();
         $db=$database->db;
-        $result = $db->query("select uname from mvc_user where uname='{$uname}'");
+        $result = $db->query("select uname from muc_user where uname='{$uname}'");
         if ($result->num_rows > 0) {
             echo "用户名已存在";
             return;
